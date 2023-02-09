@@ -11,5 +11,5 @@ en 7mo Semestre de la carrera de Ingenieria de Sistemas
 
 - 🌱 I’m currently learning front end
 - 📫 How to reach me: Dany Ramirez #Facebook / Danyelusuario #instagram
-- ⚡ Fun fact 
+
 -->
