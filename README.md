@@ -8,6 +8,6 @@ Estudiante de el instituto tecnologico de Tijuana (IIT)
 en 7mo Semestre de la carrera de Ingenieria de Sistemas 
 
 
-- 🌱 I’m currently learning front end
+- 🌱 I’m currently learning frontend
 - 📫 How to reach me: Dany Ramirez #Facebook / Danyelusuario #instagram
 
