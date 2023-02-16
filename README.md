@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # image root
-![] (Golden-Boy.gif)
+
 ![Golden-Boy](https://user-images.githubusercontent.com/124211806/219505415-28b9d3da-6679-4e16-9163-813336343ce8.gif)
 
 
