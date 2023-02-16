@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
+# image root
+![] (Golden-Boy.gif)
 
 
 Mucho Gusto mi nombre es daniel ramirez y este es mi perfil en Github
