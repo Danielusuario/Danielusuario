@@ -30,7 +30,7 @@ Apasionado por la tecnología, con experiencia en soporte y un fuerte interés e
 ---
 
 ## 🌍 Conecta conmigo  
-- 📧 **Email:** tu.correo@ejemplo.com  
+- 📧 **Email:** daniell.ramirez096@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
 - 💻 [GitHub](https://github.com/tuusuario)  
 
